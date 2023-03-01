@@ -18,6 +18,8 @@
         - Additional information about change #1
 -->
 ## Upcoming Release
+
+## Version 1.4.3
 * Removed verbose while importing modules.
 
 ## Version 1.4.2
